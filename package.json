@@ -1,0 +1,26 @@
+{
+  "name": "docker-demo-app",
+  "version": "1.0.0",
+  "description": "Docker demo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaibhavbhuva/docker-demo-app.git"
+  },
+  "keywords": [
+    "Docker"
+  ],
+  "author": "Vaibhav Bhuva",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/vaibhavbhuva/docker-demo-app/issues"
+  },
+  "homepage": "https://github.com/vaibhavbhuva/docker-demo-app#readme",
+  "dependencies": {
+    "package": "^1.0.1"
+  }
+}
